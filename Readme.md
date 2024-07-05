@@ -29,3 +29,4 @@ The flow distribution algorithm ensures that users are distributed evenly among 
 ## Example Request
 ```bash
 curl -X POST -H "Content-Type: application/json" -d '{"users": [{"name": "User1"}, {"name": "User2"}]}' http://localhost:3000/astrologers/distribute
+# Backend
